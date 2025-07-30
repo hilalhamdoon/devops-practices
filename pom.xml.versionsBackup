@@ -6,7 +6,7 @@
 
     <groupId>com.progressoft.devops</groupId>
     <artifactId>assignment</artifactId>
-    <version>250730-e8c538a3</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <!-- ✅ Corrected from <parents> to <parent> -->
     <parent>
